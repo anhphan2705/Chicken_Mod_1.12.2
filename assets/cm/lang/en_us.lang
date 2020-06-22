@@ -1,0 +1,25 @@
+
+//ITEMS
+item.chicken_pearl.name=Chicken Pearl
+item.chicken_pearl_block.name=Chicken Pearl Block
+//item.chicken_ore.name=Chicken Ore
+
+//TOOLS
+item.chicken_sword.name=Chicken Sword
+item.chicken_shovel.name=Chicken Shovel
+item.chicken_pickaxe.name=Chicken Pickaxe
+item.chicken_axe.name=Chicken Axe
+item.chicken_hoe.name=Chicken Hoe
+
+//BLOCKS
+tile.chicken_pearl_block.name=Chicken Pearl Block
+//tile.chicken_ore.name=Chicken Ore
+
+//ARMOR
+item.chicken_helmet.name=Chicken Helmet
+item.chicken_chestplate.name=Chicken Chestplate
+item.chicken_leggings.name=Chicken Leggings
+item.chicken_boots.name=Chicken Boots
+
+//FOOD
+item.chicken_magic_fruit.name=Chicken Magic Fruit

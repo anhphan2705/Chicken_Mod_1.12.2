@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "CCC",
+        " B ",
+        " B "
+    ],
+   
+    "key":
+    {
+        "C":
+        {
+            "item": "cm:chicken_pearl"
+        },
+        "B":
+        {
+            "item": "minecraft:stick"
+        }
+        
+    },
+   
+    "result":
+    {
+        "item": "cm:chicken_pickaxe",
+        "count": 1
+    }
+}

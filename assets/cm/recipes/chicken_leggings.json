@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "CCC",
+        "C C",
+        "C C"
+    ],
+   
+    "key":
+    {
+        "C":
+        {
+            "item": "cm:chicken_pearl"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cm:chicken_leggings",
+        "count": 1
+    }
+}
